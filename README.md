@@ -1,5 +1,5 @@
 # ¡BIENVENIDOS AL CURSO DE GIT!
-# CLASE 1
+
 ## Introduccion a GIT:
 ### ¿Que es un control de versiones?
 Cambios que se realizan en código fuente u otro archivo y saber quien los realizó.
@@ -16,12 +16,12 @@ Es una carpeta en la que se almacenan las diferentes versiones de los ficheros d
 2. Staged.
 3. Commited.
 ### Comandos aprendidos
-1. Comando "git init": Es un comando para inicializar GIT en un directorio.
-2. Comando "git status": Es para ver enque estado se encuentran los archivos.
-3. Comando "git add":  Indica a git si queremos añadir actualizaciones de un archivo.
-4. Comando "git commit": Comando para generar regitro de un cambio.
+1. Comando `git init`: Es un comando para inicializar GIT en un directorio.
+2. Comando `git status`: Es para ver enque estado se encuentran los archivos.
+3. Comando `git add`:  Indica a git si queremos añadir actualizaciones de un archivo.
+4. Comando `git commit`: Comando para generar regitro de un cambio.
 
-# CLASE 2
+
 ## Ramas
 ### ¿Que es una rama?
 Son una instantanea de la division del estado del codigo.
@@ -48,4 +48,7 @@ Primeramente solo me deajara borrar las ramas que ya he fucionado y las que no e
 3. Comando "git mearge header --no-ff"
 4. Comando "git log --graph --online"
 
-ghhghg
+
+
+
+
