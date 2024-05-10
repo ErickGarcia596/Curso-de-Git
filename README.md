@@ -48,6 +48,13 @@ Primeramente solo me deajara borrar las ramas que ya he fucionado y las que no e
 3. Comando "git mearge header --no-ff"
 4. Comando "git log --graph --online"
 
+## Crear un repositorio remoto
+1. Con el siguiente comando: git remote add origen [url de nuestro git]
+2. Enlazar con el comando: git push oringin main
+## Clonar un repositorio
+1. Comando para clonar: git clone [url de nuestro repositorio]
+
+
 
 
 
