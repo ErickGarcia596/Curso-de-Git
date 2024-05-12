@@ -66,6 +66,19 @@ Empujar cualquier cambio o modificacion del repositorio local al repositorio rem
 ### git pull
 Descargar los cambios o modificaciones del repositorio remoto al repositorio local.
 
+## Git flow
+### Main
+Contiene el codigo de produccion.
+### Develop
+Codigo de preproduccion que todabia deben ser probadas.
+### Feacture
+Caracteristicas nuevas para el proyecto.
+### Release
+Cambios de ultimo momento.
+### Hotfix
+Parches o arreglar bugs pequeños.
+
+
 
 
 
